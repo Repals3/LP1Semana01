@@ -8,6 +8,10 @@ namespace VariousTypes
         {
             int numero = 3;
             Console.WriteLine(numero);
-        }
+            bool condition = false;
+            Console.WriteLine(condition);
+            bool cond = true;
+            Console.WriteLine(cond);
+        }  
     }
 }
